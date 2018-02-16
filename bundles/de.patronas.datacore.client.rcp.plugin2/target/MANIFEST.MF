@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: de.patronas.datacore.client.rcp.plugin2;singleton
- :=true
-Bundle-Name: Plugin2
-Bundle-Version: 1.0.0.201802151246
-Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-
