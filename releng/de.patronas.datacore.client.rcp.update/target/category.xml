@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.patronas.datacore.client.rcp.feature_1.0.0.qualifier.jar" id="de.patronas.datacore.client.rcp.feature" version="1.0.0.qualifier">
+      <category name="tychoexample"/>
+   </feature>
+   <category-def name="tychoexample" label="Tycho example"/>
+</site>

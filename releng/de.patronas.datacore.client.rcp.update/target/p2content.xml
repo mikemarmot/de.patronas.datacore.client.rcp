@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<units size='1'>
+  <unit id='201802151246.tychoexample' version='1.0.0.2--cE_gil7735I375C57AE'>
+    <properties size='2'>
+      <property name='org.eclipse.equinox.p2.name' value='Tycho example'/>
+      <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+    </properties>
+    <provides size='1'>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='201802151246.tychoexample' version='1.0.0.2--cE_gil7735I375C57AE'/>
+    </provides>
+    <requires size='1'>
+      <required namespace='org.eclipse.equinox.p2.iu' name='de.patronas.datacore.client.rcp.feature.feature.group' range='[1.0.0.201802151246,1.0.0.201802151246]'/>
+    </requires>
+    <touchpoint id='null' version='0.0.0'/>
+  </unit>
+</units>

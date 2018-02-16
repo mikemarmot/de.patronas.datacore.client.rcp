@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>de.patronas.datacore.client.rcp</groupId>
+    <artifactId>de.patronas.datacore.client.rcp.features</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>de.patronas.datacore.client.rcp</groupId>
+        <artifactId>de.patronas.datacore.client.rcp.root</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <module>de.patronas.datacore.client.rcp.feature</module>
+    </modules>
+</project>

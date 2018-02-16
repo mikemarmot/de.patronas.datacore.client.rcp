@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tests
+Bundle-SymbolicName: de.patronas.datacore.client.rcp.tests
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: de.patronas.datacore.client.rcp.plugin1;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.junit;bundle-version="4.12.0"
