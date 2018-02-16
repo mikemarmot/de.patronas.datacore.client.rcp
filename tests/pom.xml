@@ -14,7 +14,7 @@
     </parent>
 
     <modules>
-        <module>de.patronas.datacore.client.rcp.tests.tests</module>
+        <module>de.patronas.datacore.client.rcp.unittests</module>
     </modules>
     
 </project>
